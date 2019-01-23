@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         println("Some code")
         println("Some forgotten string")
         println("Some forgotten string")
+        println("Some forgotten string")
+        println("Some forgotten string")
     }
 }
