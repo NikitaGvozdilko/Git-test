@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Code at master")
         println("Code at master")
+        println("Some forgotten string2222")
     }
 }
